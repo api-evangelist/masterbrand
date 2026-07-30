@@ -2,6 +2,17 @@ aid: masterbrand
 url: https://github.com/api-evangelist/masterbrand
 name: MasterBrand
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.masterbrand.com/favicon.ico
 tags:
   - Cabinetry
